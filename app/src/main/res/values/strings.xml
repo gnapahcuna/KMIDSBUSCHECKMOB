@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NFC BusCheck</string>
+    <string name="text_version">version 1.1.3</string>
+
+    <string name="finger_title">Access to KMIDS Mobile</string>
+    <string name="finger_sub_title">Scan to access Or cancel to enter password</string>
+
+    <!-- Welcome -->
+    <string name="text_title_welcome">KMIDS Registration</string>
+    <string name="text_sub_title_welcome">Please enter your information</string>
+    <string name="text_input_phoneorcardid">Enter ID card number / phone number</string>
+    <string name="text_next">Next</string>
+    <string name="title_confirm_logout">Press again to close the app.</string>
+
+    <!-- Lock Pin -->
+    <string name="text_title_lock_pin">Please enter password</string>
+    <string name="text_error_lock_pin">Password is incorrect</string>
+    <string name="text_ok_button">Ok</string>
+    <string name="text_cancel_button">Cancel</string>
+    <string name="text_forgot_pass">Forgot password</string>
+
+    <!-- Setting Pin -->
+    <string name="text_title_input_pin">Create new password</string>
+    <string name="text_title_input_pin2">Confirm new password</string>
+    <string name="text_check_match_pin">Passwords do not match</string>
+    <string name="text_create_password_success">Create PIN Success</string>
+    <string name="title_activity_home">MainActivity</string>
+
+    <!-- Home -->
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Setting</string>
+    <string name="title_notifications">Logout</string>
+    <string name="text_home_title">Student List</string>
+    <string name="text_alert_message">Confirm acceptance of students</string>
+    <string name="text_button_accept">Start the journey</string>
+    <string name="text_button_arrive">Stop the arrive</string>
+    <string name="text_error_area">Your location is not in the designated area.</string>
+    <string name="text_driver_name_sample"></string>
+    <string name="text_button_journey">Journey</string>
+    <string name="text_end_total_msg">Total</string>
+    <string name="err_msg_binding">Data Eror</string>
+    <string name="text_back_button">Back</string>
+
+    <string name="text_change_password">Change password</string>
+    <string name="text_on_touch_id">Login with Touch ID</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="end_msg_fragment">Total</string>
+
+</resources>
